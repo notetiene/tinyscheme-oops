@@ -4,7 +4,7 @@ for TinyScheme 1.38
 (c) 2007 Sergey Cherepanov (s-cherepanov@users.sourceforge.net)
 
 
-  TinyScheme OOPS is a port of Elk's (http://sam.zoy.org/elk/) OOPS.  This
+  TinyScheme OOPS is a port of Elk Scheme (http://sam.zoy.org/elk/) OOPS.  This
 extension provide two foreign functions: 'set-closure-environment!' and
 'environment->list'.
 
@@ -15,5 +15,5 @@ Synopsis:
   Programs that make use of the OOPS package should load OOPS extension and file
 'oops.scm'
 
-  File 'oops.scm' is a port of Elk's 'oops.scm'.  Elk's OOPS described in file
-'oops.html'.
+  File 'oops.scm' is a port of Elk Scheme 'oops.scm'.  Elk Scheme OOPS described in
+file 'oops.html'.
